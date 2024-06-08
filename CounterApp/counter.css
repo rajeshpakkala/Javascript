@@ -1,0 +1,26 @@
+.countermainheading{
+    font-family: roboto;
+    font-size:100px;
+    font-style: italic;
+    color:red;
+}
+.countervaluecss{
+    font-family: roboto;
+    font-size:80px;
+    font-weight: 500;
+    font-style: italic;
+    color:black;
+}
+.bg-container{
+    background-color: aqua;
+    height: 100vh;
+  
+}
+.button{
+    border-radius: 15px;
+    border-color:black;
+    border-width:5px;
+    padding:5px;
+
+
+}
